@@ -5,8 +5,8 @@
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
-  - :bulb: [İnstagram post's](https://instagram.com/lukacoder)
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kedyc0der)](https://github.com/kedyc0der//github-readme-stats)
+  - :bulb: [İnstagram post's](https://instagram.com/lukac0der)
+<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukacoder)](https://github.com/lukacoder//github-readme-stats)
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=kedyc0der&style=for-the-badge">
   <h3>🛠  Tech Stack</h3>
 <div style="display: inline_block"><br>
@@ -27,7 +27,3 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
--
-
--
