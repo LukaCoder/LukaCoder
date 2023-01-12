@@ -7,7 +7,7 @@
 - 📫 How to find me: 
   - :bulb: [İnstagram post's](https://instagram.com/oxyt.software)
 <br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukacoder)](https://github.com/lukacoder//github-readme-stats)
-  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=kedyc0der&style=for-the-badge">
+  <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=lukacoder&style=for-the-badge">
   <h3>🛠  Tech Stack</h3>
 <div style="display: inline_block"><br>
     <img align="center" alt="lukacoder" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
