@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukacoder" alt="lukacoder" /></a> </p>
 
-<p align="left"> <a href="https://instagram.com/luka.cybersec" target="blank"><img src="https://img.shields.io/instagram/follow/luka.cybersec?logo=instagram&style=for-the-badge" alt="luka" /></a> </p>
+<p align="left"> <a href="https://instagram.com/luka.cybersec" target="blank"><img src="https://img.shields.io/badge/Connected%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="luka" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
